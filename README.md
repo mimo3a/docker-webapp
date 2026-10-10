@@ -3,6 +3,7 @@
 Eine einfache REST-API zur Verwaltung von Todos. Die Anwendung besteht aus zwei Containern, die mit Docker Compose orchestriert werden.
 
 **Autor:** Oleksandr Demianov (GitHub: mimo3a)
+
 **Lehrveranstaltung:** Current Technologies, MCI
 
 ## Architektur
